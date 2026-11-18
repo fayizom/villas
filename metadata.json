@@ -1,0 +1,6 @@
+{
+  "name": "Confident Real Estate",
+  "description": "Confident Real Estate in Doha, Qatar — Contact Noushad (+974 3084 8426, confidentrealestateqa@gmail.com), Office B-246 location, and available villas across Al Thumama, Ain Khaled, Al Wakrah, Lusail, Old Airport, and Al Aziziyah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
